@@ -1,0 +1,22 @@
+{
+  "short_name": "Gtps.Finance Swap",
+  "name": "Gtps.Finance",
+  "icons": [
+    {
+      "src": "./favicon.svg?version=1",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "background_color": "#fff",
+  "homepage_url": "https://gtps.finance",
+  "providedBy": {
+    "name": "Gtps.Finance",
+    "url": "https://gtps.finance"
+  },
+  "start_url": ".",
+  "theme_color": "#0D0BB1",
+  "description": "Swap and earn tokens at the best rates"
+}
