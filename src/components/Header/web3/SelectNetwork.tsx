@@ -2,7 +2,6 @@ import { useMemo } from 'react'
 import styled, { css } from 'styled-components'
 
 import { ReactComponent as DropdownSvg } from 'assets/svg/down.svg'
-import Card from 'components/Card'
 import NetworkModal from 'components/Header/web3/NetworkModal'
 import Row from 'components/Row'
 import { TutorialIds } from 'components/Tutorial/TutorialSwap/constant'
