@@ -134,7 +134,7 @@ const ReactApp = () => {
                 <Web3ProviderNetwork getLibrary={getLibrary}>
                   <Updaters />
                   <ThemeProvider>
-                    <ThemedGlobalStyle />
+                    <ThemedGlobalStyle /><div>
                     <App />
                   </ThemeProvider>
                 </Web3ProviderNetwork>
